@@ -1,0 +1,11 @@
+.settings-panel {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  input {
+    margin-left: 0.5rem;
+    padding: 0.25rem;
+  }
+  
